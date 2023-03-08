@@ -17,13 +17,11 @@
   },
   "require": {
     "php": ">=5.5",
-    "guzzlehttp/guzzle": "~6.0",
-    "guzzlehttp/psr7": "~1.0",
-    "guzzlehttp/promises": "^1.1",
+    "guzzlehttp/guzzle": "^7.0.1"
     "ebay/digital-signature-php-sdk": "^1.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "~9.5",
+    "phpunit/phpunit": "^9.5.10",
     "squizlabs/php_codesniffer": "2.*"
   },
   "autoload": {
